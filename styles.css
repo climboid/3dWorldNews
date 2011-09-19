@@ -1,0 +1,5 @@
+*{ margin:0; padding:0; color:#fff;}
+.searchBox{ position:absolute; top:5%; left:5%;}
+input{padding:0.5em; border:5px solid #ccc; border-radius:0.4em; width:30%; color:#fff; background:#000; font-size:1.5em;}
+body{background:#000; margin:0 auto;}
+#lesson11-canvas{ position:relative; top:20%; left:20%;}
