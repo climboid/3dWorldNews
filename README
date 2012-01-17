@@ -2,3 +2,5 @@ This is an intent into having a tool that can pin point a localion that is
 typed into the input box within a 3d world running on webGL. Once that is
 done it will feed out of a different number of news api's to bring news
 from that region.
+
+"!http://api.coderwall.com/climboid/endorsecount.png!":http://coderwall/climboid
